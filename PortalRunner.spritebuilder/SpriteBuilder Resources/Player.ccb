@@ -484,7 +484,7 @@
 			<key>affectedByGravity</key>
 			<true/>
 			<key>allowsRotation</key>
-			<false/>
+			<true/>
 			<key>bodyShape</key>
 			<integer>0</integer>
 			<key>collisionCategories</key>
@@ -511,14 +511,14 @@
 				</array>
 				<array>
 					<real>0.0</real>
-					<real>32</real>
+					<real>64</real>
 				</array>
 				<array>
-					<real>32</real>
-					<real>32</real>
+					<real>64</real>
+					<real>64</real>
 				</array>
 				<array>
-					<real>32</real>
+					<real>64</real>
 					<real>0.0</real>
 				</array>
 			</array>
@@ -526,16 +526,16 @@
 			<array>
 				<array>
 					<array>
-						<real>32</real>
+						<real>64</real>
 						<real>0.0</real>
 					</array>
 					<array>
-						<real>32</real>
-						<real>32</real>
+						<real>64</real>
+						<real>64</real>
 					</array>
 					<array>
 						<real>0.0</real>
-						<real>32</real>
+						<real>64</real>
 					</array>
 					<array>
 						<real>0.0</real>
@@ -606,6 +606,8 @@
 				</array>
 			</dict>
 		</array>
+		<key>selected</key>
+		<true/>
 	</dict>
 	<key>notes</key>
 	<array/>

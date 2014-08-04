@@ -8,6 +8,6 @@
 
 #import "CCScene.h"
 
-@interface Gameplay : CCScene
+@interface Gameplay : CCScene <CCPhysicsCollisionDelegate>
 
 @end
